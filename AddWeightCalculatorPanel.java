@@ -4,9 +4,6 @@ import java.awt.*; // Import Java AWT for GUI components
 import java.awt.event.ActionEvent; // Import Java AWT event for GUI components
 import java.awt.event.ActionListener; // Import Java AWT event listener for GUI components
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.*;
 
 public class AddWeightCalculatorPanel {
     private JTextField weightField;

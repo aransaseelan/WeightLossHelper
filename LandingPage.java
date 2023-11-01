@@ -32,6 +32,6 @@ public class LandingPage {
     }
 
     public JPanel getLandingPage() {
-        return LandingPage;
+        return landingPage;
     }
 }
