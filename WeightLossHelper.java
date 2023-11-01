@@ -8,7 +8,6 @@ public class WeightLossHelper{
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //Makes the X button work
         frame.setExtendedState(JFrame.MAXIMIZED_BOTH); // Set the window to full screen of the monitor
         frame.setVisible(true); // Make the frame visible
-        frame.add(landingPage.getLandingPage());
     }
 
     public static double weight_To_Pounds(double weight_pounds){
